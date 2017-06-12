@@ -1,0 +1,19 @@
+﻿<Window x:Class="LicenseCalculator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LicenseCalculator"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Label Content="License Calculator" HorizontalAlignment="Center" Height="52" Margin="159,10,163,0" VerticalAlignment="Top" Width="195" FontSize="20" HorizontalContentAlignment="Center" FontWeight="Bold"/>
+        <Rectangle Height="231" Margin="10,62,10,0" VerticalAlignment="Top" Width="497" Fill="#FFEEF4F5">
+        </Rectangle>
+        <TextBox x:Name="txtFileName" HorizontalAlignment="Left" Height="42" Margin="48,116,0,0" TextWrapping="Wrap" Text="Please browse to a file or type in the file path." VerticalAlignment="Top" Width="421"/>
+        <Button x:Name="btnBrowse" Content="Browse" HorizontalAlignment="Left" Margin="48,82,0,0" VerticalAlignment="Top" Width="75" Click="btnBrowse_Click" Height="25"/>
+        <Button x:Name="btnRead" Content="Read File" HorizontalAlignment="Left" Margin="102,222,0,0" VerticalAlignment="Top" Width="118" Height="34" IsEnabled="False" Click="btnRead_ClickAsync"/>
+        <Button x:Name="btnCalc" Content="Calculate Licence" HorizontalAlignment="Left" Margin="272,222,0,0" VerticalAlignment="Top" Width="118" Height="34" IsEnabled="False" Click="btnCalc_Click"/>
+        <TextBox x:Name="txtResult" HorizontalAlignment="Left" Height="35" Margin="48,170,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="421"/>
+    </Grid>
+</Window>

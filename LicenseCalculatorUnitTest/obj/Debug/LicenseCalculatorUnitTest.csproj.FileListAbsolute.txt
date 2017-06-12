@@ -1,0 +1,15 @@
+C:\Users\BobW\Documents\Visual Studio 2017\Projects\LicenseCalculator\LicenseCalculatorUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\BobW\Documents\Visual Studio 2017\Projects\LicenseCalculator\LicenseCalculatorUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\BobW\Documents\Visual Studio 2017\Projects\LicenseCalculator\LicenseCalculatorUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\BobW\Documents\Visual Studio 2017\Projects\LicenseCalculator\LicenseCalculatorUnitTest\bin\Debug\LicenseCalculatorUnitTest.dll
+C:\Users\BobW\Documents\Visual Studio 2017\Projects\LicenseCalculator\LicenseCalculatorUnitTest\bin\Debug\LicenseCalculatorUnitTest.pdb
+C:\Users\BobW\Documents\Visual Studio 2017\Projects\LicenseCalculator\LicenseCalculatorUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\BobW\Documents\Visual Studio 2017\Projects\LicenseCalculator\LicenseCalculatorUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\BobW\Documents\Visual Studio 2017\Projects\LicenseCalculator\LicenseCalculatorUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\BobW\Documents\Visual Studio 2017\Projects\LicenseCalculator\LicenseCalculatorUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\BobW\Documents\Visual Studio 2017\Projects\LicenseCalculator\LicenseCalculatorUnitTest\obj\Debug\LicenseCalculatorUnitTest.csprojResolveAssemblyReference.cache
+C:\Users\BobW\Documents\Visual Studio 2017\Projects\LicenseCalculator\LicenseCalculatorUnitTest\obj\Debug\LicenseCalculatorUnitTest.dll
+C:\Users\BobW\Documents\Visual Studio 2017\Projects\LicenseCalculator\LicenseCalculatorUnitTest\obj\Debug\LicenseCalculatorUnitTest.pdb
+C:\Users\BobW\Documents\Visual Studio 2017\Projects\LicenseCalculator\LicenseCalculatorUnitTest\bin\Debug\LicenseCalculator.exe
+C:\Users\BobW\Documents\Visual Studio 2017\Projects\LicenseCalculator\LicenseCalculatorUnitTest\bin\Debug\LicenseCalculator.pdb
+C:\Users\BobW\Documents\Visual Studio 2017\Projects\LicenseCalculator\LicenseCalculatorUnitTest\bin\Debug\LicenseCalculator.exe.config

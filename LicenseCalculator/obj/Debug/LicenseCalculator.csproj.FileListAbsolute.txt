@@ -1,0 +1,14 @@
+C:\Users\BobW\Documents\Visual Studio 2017\Projects\LicenseCalculator\LicenseCalculator\obj\Debug\LicenseCalculator.csprojResolveAssemblyReference.cache
+C:\Users\BobW\Documents\Visual Studio 2017\Projects\LicenseCalculator\LicenseCalculator\obj\Debug\MainWindow.g.cs
+C:\Users\BobW\Documents\Visual Studio 2017\Projects\LicenseCalculator\LicenseCalculator\obj\Debug\App.g.cs
+C:\Users\BobW\Documents\Visual Studio 2017\Projects\LicenseCalculator\LicenseCalculator\obj\Debug\LicenseCalculator_MarkupCompile.cache
+C:\Users\BobW\Documents\Visual Studio 2017\Projects\LicenseCalculator\LicenseCalculator\obj\Debug\LicenseCalculator_MarkupCompile.lref
+C:\Users\BobW\Documents\Visual Studio 2017\Projects\LicenseCalculator\LicenseCalculator\bin\Debug\LicenseCalculator.exe.config
+C:\Users\BobW\Documents\Visual Studio 2017\Projects\LicenseCalculator\LicenseCalculator\bin\Debug\LicenseCalculator.exe
+C:\Users\BobW\Documents\Visual Studio 2017\Projects\LicenseCalculator\LicenseCalculator\bin\Debug\LicenseCalculator.pdb
+C:\Users\BobW\Documents\Visual Studio 2017\Projects\LicenseCalculator\LicenseCalculator\obj\Debug\MainWindow.baml
+C:\Users\BobW\Documents\Visual Studio 2017\Projects\LicenseCalculator\LicenseCalculator\obj\Debug\LicenseCalculator.g.resources
+C:\Users\BobW\Documents\Visual Studio 2017\Projects\LicenseCalculator\LicenseCalculator\obj\Debug\LicenseCalculator.Properties.Resources.resources
+C:\Users\BobW\Documents\Visual Studio 2017\Projects\LicenseCalculator\LicenseCalculator\obj\Debug\LicenseCalculator.csproj.GenerateResource.Cache
+C:\Users\BobW\Documents\Visual Studio 2017\Projects\LicenseCalculator\LicenseCalculator\obj\Debug\LicenseCalculator.exe
+C:\Users\BobW\Documents\Visual Studio 2017\Projects\LicenseCalculator\LicenseCalculator\obj\Debug\LicenseCalculator.pdb
